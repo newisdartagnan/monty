@@ -21,5 +21,5 @@ int main(void)
 	ops[1].f(&stack, 0);
 
 
-	return(0);
+	return (0);
 }
