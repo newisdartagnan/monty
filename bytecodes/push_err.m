@@ -1,4 +1,4 @@
-push 1
+push <int> 
 push 2
 pall
 push 3car
